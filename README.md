@@ -19,7 +19,7 @@
 - 💤 A propos de moi : **j’adore coder, créer des bots et explorer tout ce qui touche à la tech, toujours prête à collaborer et apprendre de nouvelles choses.**
 - 🔒 Me contacter : **elvapro7@gmail.com**
 
-<h3 align="left">Mes connexions :</h3>
+<h3 align="left">⭐ › Mes connexions :</h3>
 <p align="left">
   <a href="https://twitter.com/elva_4s" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elva_4s" height="30" width="40" />
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="left">Langages et Tools:</h3>
+<h3 align="left">🧊 › Langages et Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
