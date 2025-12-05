@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1391750890976841892/1446587780665704600/elva_1.png?ex=6934875b&is=693335db&hm=2c54117aa214693397e23f5563616b5cc8e28d62c68101beeb8f43da24f93fce&=&format=webp&quality=lossless" alt="Bannière" width="100%" />
+</p>
+
 <h1 align="center">Coucouu, Je suis Elva</h1>
 <h3 align="center">Passionné par les Bots Discord</h3>
 
