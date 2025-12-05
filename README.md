@@ -9,14 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/elva_4s" target="blank"><img src="https://img.shields.io/twitter/follow/elva_4s?logo=twitter&style=for-the-badge" alt="elva_4s" /></a> </p>
 
-- 🥐 Actuellement je travaille sur [FishyBot](https://discord.gg/6tFfShvRBQ)
-<p>
-  <img src="https://media.discordapp.net/attachments/1391750890976841892/1446588429755482284/4.png?ex=693487f5&is=69333675&hm=d2947dbd23f72fb1bb6c3a5180b4ae754f945f20c311dbb4608e0ec2c27aba9d&=&format=webp&quality=lossless&width=960&height=960" width="120" align="right" />
-</p>
+- 🥐 › Actuellement je travaille sur [FishyBot](https://discord.gg/6tFfShvRBQ)
 
-- 💤 A propos de moi : **j’adore coder, créer des bots et explorer tout ce qui touche à la tech, toujours prête à collaborer et apprendre de nouvelles choses.**
+- 💤 › A propos de moi : **j’adore coder, créer des bots et explorer tout ce qui touche à la tech, toujours prête à collaborer et apprendre de nouvelles choses.**
 
-- 🔒 Me contacter **elvapro7@gmail.com**
+- 🔒 › Me contacter **elvapro7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
