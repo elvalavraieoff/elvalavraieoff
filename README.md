@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1391750890976841892/1446587780665704600/elva_1.png?ex=6934875b&is=693335db&hm=2c54117aa214693397e23f5563616b5cc8e28d62c68101beeb8f43da24f93fce&=&format=webp&quality=lossless" alt="Bannière" width="100%" />
 </p>
-<p float="left">
-  <img src="https://media.discordapp.net/attachments/1391750890976841892/1446588429755482284/4.png?ex=693487f5&is=69333675&hm=d2947dbd23f72fb1bb6c3a5180b4ae754f945f20c311dbb4608e0ec2c27aba9d&=&format=webp&quality=lossless&width=960&height=960" width="120" align="right" />
 
 <h1 align="center">Coucouu, Je suis Elva</h1>
 <h3 align="center">Passionné par les Bots Discord</h3>
@@ -12,6 +10,9 @@
 <p align="left"> <a href="https://twitter.com/elva_4s" target="blank"><img src="https://img.shields.io/twitter/follow/elva_4s?logo=twitter&style=for-the-badge" alt="elva_4s" /></a> </p>
 
 - 🥐 Actuellement je travaille sur [FishyBot](https://discord.gg/6tFfShvRBQ)
+<p>
+  <img src="https://lien-de-ta-petite-image.com/image.png" width="120" align="right" />
+</p>
 
 - 💤 A propos de moi : **j’adore coder, créer des bots et explorer tout ce qui touche à la tech, toujours prête à collaborer et apprendre de nouvelles choses.**
 
