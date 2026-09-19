@@ -57,9 +57,9 @@
 <h3 align="left">💻 › Mes compétences:</h3>
 <p align="left">
 Python       ▰▰▰▰▰▰▰▰▰ 100% <br>
-JavaScript   ▰▰▰▰▱▱▱▱▱ 45% <br>
-Node.js      ▰▰▰▰▱▱▱▱▱ 45% <br>
-PHP       ▰▰▰▰▰▱▱▱▱ 58% <br>
+JavaScript   ▰▰▰▰▰▰▰▱▱ 80% <br>
+Node.js      ▰▰▰▰▰▰▰▱▱ 80% <br>
+PHP       ▰▱▱▱▱▱▱ 2% <br>
 HTML & CSS   ▰▰▰▰▰▰▱▱▱ 78%
 </p>
 
