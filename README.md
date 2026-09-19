@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1448626606976270453/1451361644549767198/elva_1.png?ex=6945e55d&is=694493dd&hm=096c6401a47528c9cd43bd7ffc1f3c283af321d9c8129663b6fbc7959404b6fb&=&format=webp&quality=lossless&width=550&height=183" alt="Bannière" width="100%" />
+  <img src="https://media.discordapp.net/attachments/1536710516288921682/1550960391499157624/elva_1.png?ex=6ab03bec&is=6aaeea6c&hm=6b145493c677c1627e31108aa541ea17058f6a2bda9594702c426161b9affc2a&animated=true" alt="Bannière" width="100%" />
 </p>
 
 <h1 align="center">Coucouu, Je suis Elva</h1>
