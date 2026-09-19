@@ -15,7 +15,7 @@
   </a> 
 </p>
 
-- 🥐 Actuellement je travaille sur [FishyBot](https://discord.gg/6tFfShvRBQ)
+- 🥐 Actuellement je travaille sur un tout nouveau Projet... (soon)
 - 💤 A propos de moi : **j’adore coder, créer des bots et explorer tout ce qui touche à la tech, toujours prête à collaborer et apprendre de nouvelles choses.**
 - 🔒 Me contacter : **elvapro7@gmail.com**
 
